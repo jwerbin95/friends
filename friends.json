@@ -1,0 +1,3 @@
+{
+	"friends": "[{name: 'friend1', age: 22, location: 'North Korea', eyeColor: 'solid black', hairColor: 'neon brown'},{name: 'friend2', age: Infinity, location: 'Center of the earth', eyeColor: 'Sort of blue but also sort of not blue', hairColor: 'country time lemonade yellow'},{name: 'friend3', age: -1, location: 'Everywhere and Nowhere', eyeColor: 'Nobody Really Knows What his eyes look like', hairColor: 'bald. hair is for mere mortals'}]"
+}

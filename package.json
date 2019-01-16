@@ -1,0 +1,14 @@
+{
+  "name": "friends",
+  "version": "1.0.0",
+  "description": "friends",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jacob Werbin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
